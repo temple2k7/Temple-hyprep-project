@@ -216,16 +216,16 @@ nav {
   }
 }
 
-.portfolio-items-wrapper {
+.courses-items-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
-.portfolio-item-wrapper {
+.courses-item-wrapper {
   position: relative;
 }
 
-.portfolio-img-background {
+.courses-img-background {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -270,6 +270,8 @@ nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+
 
 
 
